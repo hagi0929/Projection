@@ -3,7 +3,7 @@
 ### Class
 #### Projection - has two paramemter VertexListOfPolyhedron and ThreeCoordinateListOfThePlain and one method execute.
 #### parameters
-VertexListOfPolyhedron - list of the Polyhedron's coordinate
+VertexListOfPolyhedron - list of the Polyhedron's coordinate  
 ThreeCoordinateListOfThePlain - list (len: 3) of the three coordinate that can form a plain 
 ### Methods
 #### execute - a method which reterns list of the Polyhedron's coordinate projected on plain. has no parameter 
